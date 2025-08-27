@@ -159,7 +159,7 @@ ui <- dashboardPage(
                                   checkboxInput("show_area", "Prikaži vjerojatnost (P)", value = FALSE))
                                   
                                 ))), #Uniformna n.
-                              tabPanel(title=HTML("&chi;&sup2;"),value='chisq',fluidRow(
+                              tabPanel(title=withMathJax("\\(\\chi^2\\)"),value='chisq',fluidRow(
                                 column(8, plotlyOutput('plotchisq')),
                                 column(3,wellPanel(
                                   tags$p("Izaberite parametre distribucije:", style = "font-weight: bold; margin-bottom: 5px;"),
@@ -179,7 +179,7 @@ ui <- dashboardPage(
                                 column(8, plotlyOutput('plotstud')),
                                 column(3,wellPanel(
                                   tags$p("Izaberite parametre distribucije:", style = "font-weight: bold; margin-bottom: 5px;"),
-                                  sliderInput(inputId = "kstud",label = HTML("Stupanj slobode (&nu;)"),min = 3,max = 100,value = 3,step = 1),
+                                  sliderInput(inputId = "kstud",label = withMathJax("Stupanj slobode (\\(\\nu\\))"),min = 3,max = 100,value = 3,step = 1),
                                   actionButton(inputId = 'resetstud',label = "reset"),
                                   checkboxInput(inputId = "showexp", label = "Prikaži očekivanje", value = FALSE),
                                   checkboxInput(inputId = "showmedian", label = "Prikaži medijan", value = FALSE),
