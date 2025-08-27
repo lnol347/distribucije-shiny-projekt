@@ -6,6 +6,7 @@ Web aplikacija za vizualizaciju različitih parametarski zadanih vjerojatnosnih 
 **Upute za korištenje:**
 
 Dovoljno je pristupiti stranici: https://lnol.shinyapps.io/vj_distribucije/
+
 U slučaju da stranica nije dostupna, treba otvoriti `app.r` u Rstudio i kliknuti gumb "Run App" u gornjem desnom kutu okvira za programski kod.
 
 
