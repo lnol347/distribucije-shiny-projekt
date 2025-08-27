@@ -7,7 +7,7 @@ Web aplikacija za vizualizaciju različitih parametarski zadanih vjerojatnosnih 
 
 Dovoljno je pristupiti stranici: https://lnol.shinyapps.io/vj_distribucije/
 
-U slučaju da stranica nije dostupna, treba otvoriti `app.r` u Rstudio i kliknuti gumb "Run App" u gornjem desnom kutu okvira za programski kod.
+U slučaju da stranica nije dostupna, treba otvoriti `app.r` u Rstudio i kliknuti gumb "Run App" u gornjem desnom kutu okvira za programski kod. Ako nemate potrebne pakete, instaliraju se u konzoli s npr. `install.packages("shiny")`
 
 
 **Korišteni paketi:**
