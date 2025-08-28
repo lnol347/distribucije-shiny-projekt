@@ -27,3 +27,7 @@ U slučaju da stranica nije dostupna, treba otvoriti `app.r` u Rstudio i kliknut
 - Prikaz vjerojatnosti po varijanci i standardnim devijacijama, ili po vlastitom intervalu
 - matematički izrazi za funkciju gustoće, formule za očekivanje i varijancu
 - trenutne vrijednosti očekivanja i varijance s obzirom na parametre grafa
+
+**Napomene:**
+- Prikaz vjerojatnosti na grafu zna biti netočan za početne parametre - u tom slučaju treba samo promijeniti jedan parametar (granicu intervala) i prikaz se ispravi (može se vratiti na početne parametre za točan prikaz)
+- Prikaz vjerojatnosti po varijanci/standardnim devijacijama je neprecizan kod Chi-squared i Studentove distribucije za k=1 tj. d_1=1
