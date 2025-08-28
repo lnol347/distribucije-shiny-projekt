@@ -29,5 +29,5 @@ U slučaju da stranica nije dostupna, treba otvoriti `app.r` u Rstudio i kliknut
 - trenutne vrijednosti očekivanja i varijance s obzirom na parametre grafa
 
 **Napomene:**
-- Prikaz vjerojatnosti na grafu zna biti netočan za početne parametre - u tom slučaju treba samo promijeniti jedan parametar (granicu intervala) i prikaz se ispravi (može se vratiti na početne parametre za točan prikaz)
+- Prikaz vjerojatnosti na grafu zna biti netočan za početne parametre - u tom slučaju treba samo promijeniti jedan parametar (granicu intervala) i prikaz se ispravi (može se vratiti na početni interval za točan prikaz)
 - Prikaz vjerojatnosti po varijanci/standardnim devijacijama je neprecizan kod Chi-squared i Studentove distribucije za k=1 tj. d_1=1
