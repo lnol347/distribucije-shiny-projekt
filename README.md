@@ -16,3 +16,14 @@ U slučaju da stranica nije dostupna, treba otvoriti `app.r` u Rstudio i kliknut
 - `reshape2` - potreban za backend funkcionalnosti
 - `ggplot2, plotly` - paketi za grafove
 - `rsconnect` - potreban za deploy
+
+**Implementirane distribucije:**
+- Diskretne: Bernoullijeva, Binomna, Poissonova, Uniformna
+- Neprekidne: Normalna, Eksponencijalna, Uniformna, Chi-squared, Studentova, Fisherova
+
+**Značajke:**
+- Grafovi za svaku distribuciju s promjenjivim parametrima
+- Grafički prikaz očekivanja, medijana, gornjeg i donjeg kvartila
+- Prikaz vjerojatnosti po varijanci i standardnim devijacijama, ili po vlastitom intervalu
+- matematički izrazi za funkciju gustoće, formule za očekivanje i varijancu
+- trenutne vrijednosti očekivanja i varijance s obzirom na parametre grafa
