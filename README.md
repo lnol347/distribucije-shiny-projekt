@@ -28,6 +28,9 @@ U slučaju da stranica nije dostupna, treba otvoriti `app.r` u Rstudio i kliknut
 **Značajke:**
 - Grafovi za svaku distribuciju s promjenjivim parametrima
 - Grafički prikaz očekivanja, medijana, gornjeg i donjeg kvartila
+
+<img src="https://files.catbox.moe/4s0dxc.png" width=50% height=50%>
+
 - Prikaz vjerojatnosti po varijanci i standardnim devijacijama, ili po vlastitom intervalu
 - matematički izrazi za funkciju gustoće, formule za očekivanje i varijancu
 - trenutne vrijednosti očekivanja i varijance s obzirom na parametre grafa
