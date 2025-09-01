@@ -31,18 +31,18 @@ U slučaju da stranica nije dostupna, treba otvoriti `app.r` u Rstudio i kliknut
 
 - Prikaz vjerojatnosti po varijanci i standardnim devijacijama, ili po vlastitom intervalu
 
-<img src="https://files.catbox.moe/vk53yp.png" width=20% height=20%>
+<img src="https://files.catbox.moe/vk53yp.png" width=25% height=25%>
 
 - matematički izrazi za funkciju gustoće, formule za očekivanje i varijancu
 
-<img src="https://files.catbox.moe/mwy11z.png" width=30% height=30%>
+<img src="https://files.catbox.moe/mwy11z.png" width=35% height=35%>
 
-<img src="https://files.catbox.moe/gi3i9k.png" width=30% height=30%>
+<img src="https://files.catbox.moe/gi3i9k.png" width=35% height=35%>
 
 - trenutne vrijednosti očekivanja i varijance s obzirom na parametre grafa
 
 
-<img src="https://files.catbox.moe/s6o4ih.png" width=30% height=30%>
+<img src="https://files.catbox.moe/s6o4ih.png" width=35% height=35%>
 
 **Napomene:**
 - Prikaz vjerojatnosti na grafu zna biti netočan za početne parametre - u tom slučaju treba samo promijeniti jedan parametar (granicu intervala) i prikaz se ispravi (može se vratiti na početni interval za točan prikaz)
