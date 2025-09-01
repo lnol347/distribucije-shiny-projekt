@@ -2,6 +2,9 @@
 
 Web aplikacija za vizualizaciju različitih parametarski zadanih vjerojatnosnih distribucija, dizajnirana u programskom jeziku R koristeći Shiny paket. Aplikacija je namijenjena kao dodatan alat za razumijevanje gradiva vjerojatnosti i statistike.
 
+![](https://files.catbox.moe/7390bq.png)
+
+
 ---
 **Upute za korištenje:**
 
