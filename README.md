@@ -27,7 +27,7 @@ U slučaju da stranica nije dostupna, treba otvoriti `app.r` u Rstudio i kliknut
 - Grafovi za svaku distribuciju s promjenjivim parametrima
 - Grafički prikaz očekivanja, medijana, gornjeg i donjeg kvartila
 
-<img src="https://files.catbox.moe/08au8s.png" width=50% height=50%>
+<img src="https://files.catbox.moe/08au8s.png" width=55% height=55%>
 
 - Prikaz vjerojatnosti po varijanci i standardnim devijacijama, ili po vlastitom intervalu
 
