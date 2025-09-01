@@ -11,7 +11,7 @@ Web aplikacija za vizualizaciju različitih parametarski zadanih vjerojatnosnih 
 Dovoljno je pristupiti stranici: https://lnol.shinyapps.io/vj_distribucije/
 
 U slučaju da stranica nije dostupna, treba otvoriti `app.r` u Rstudio i kliknuti gumb "Run App" u gornjem desnom kutu okvira za programski kod. Ako nemate potrebne pakete, instaliraju se u konzoli s `install.packages(c("shiny", "shinydashboard", "reshape2", "ggplot2", "plotly", "rsconnect"))`
-
+![](https://files.catbox.moe/m392dk.png)
 
 **Korišteni paketi:**
 - `shiny` - Glavni paket; namijenjen za izradu web aplikacija u području podatkovnih znanosti, podržava R i Python
