@@ -1,5 +1,3 @@
-<img width="813" height="165" alt="image" src="https://github.com/user-attachments/assets/29c7f92e-4029-4bea-8895-b5309d4652b4" /># Shiny web aplikacija za vjerojatnosne distribucije
-
 Web aplikacija za vizualizaciju različitih parametarski zadanih vjerojatnosnih distribucija, dizajnirana u programskom jeziku R koristeći Shiny paket. Aplikacija je namijenjena kao dodatan alat za razumijevanje gradiva vjerojatnosti i statistike.
 
 ![](https://files.catbox.moe/7390bq.png)
@@ -33,18 +31,18 @@ U slučaju da stranica nije dostupna, treba otvoriti `app.r` u Rstudio i kliknut
 
 - Prikaz vjerojatnosti po varijanci i standardnim devijacijama, ili po vlastitom intervalu
 
-<img src="https://files.catbox.moe/vk53yp.png" width=80% height=80%>
+<img src="https://files.catbox.moe/vk53yp.png" width=50% height=50%>
 
 - matematički izrazi za funkciju gustoće, formule za očekivanje i varijancu
 
-<img src="https://files.catbox.moe/mwy11z.png" width=80% height=80%>
+<img src="https://files.catbox.moe/mwy11z.png" width=50% height=50%>
 
-<img src="https://files.catbox.moe/gi3i9k.png" width=80% height=80%>
+<img src="https://files.catbox.moe/gi3i9k.png" width=50% height=50%>
 
 - trenutne vrijednosti očekivanja i varijance s obzirom na parametre grafa
 
 
-<img src="https://files.catbox.moe/s6o4ih.png" width=80% height=80%>
+<img src="https://files.catbox.moe/s6o4ih.png" width=50% height=50%>
 
 **Napomene:**
 - Prikaz vjerojatnosti na grafu zna biti netočan za početne parametre - u tom slučaju treba samo promijeniti jedan parametar (granicu intervala) i prikaz se ispravi (može se vratiti na početni interval za točan prikaz)
